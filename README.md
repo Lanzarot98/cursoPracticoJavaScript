@@ -1,2 +1,2 @@
 # cursoPracticoJavaScript
-Ejercicios del curso práctico de JavaScript, objetos, arrays, manipulación DOM, ciclos, condicionales, etc
+Ejercicios de los cursos de JavaScript: objetos, arrays, manipulación DOM, ciclos, condicionales, etc
